@@ -5,4 +5,5 @@ The process for fine-tuning LLMs Locally without third-party APIs and platform f
 
 1. Select a pre-trained model with fewer parameters, preferably a lightweight one that is easier to load and train.
 2. Model specifications including model name, tokeniser, and sequence classifier (for classification tasks), as in `model-spec`.
-3. Set the parameters for the main task function, e.g., sentiment analysis as in `sentiment-analysis`.
+3. Set the parameters for the main task function, e.g., sentiment analysis as in `sentiment-analysis`(e.g., padding, truncation, etc).
+4. 
