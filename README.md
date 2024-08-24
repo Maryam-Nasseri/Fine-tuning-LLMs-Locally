@@ -13,4 +13,4 @@ The process for fine-tuning LLMs Locally without third-party APIs and platform f
 
 ## The process for fine-tuning LLMs locally 
 
- The external data source format should follow the LLM's training template.
+ -- Specify the number of examples to provide to the LLM from the external data source; this dataset format should follow the LLM's training template.
