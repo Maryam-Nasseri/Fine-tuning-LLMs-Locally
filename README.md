@@ -13,4 +13,5 @@ The process for fine-tuning LLMs Locally without third-party APIs and platform f
 
 ## The process for fine-tuning LLMs locally 
 
+-- Load the dataset you want to fine-tune your model on; you can use Pandas `DataFrame` to sort/select a portion of the training dataset, as in `load_data`.
  
