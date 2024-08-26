@@ -9,7 +9,7 @@ The process for fine-tuning LLMs Locally without third-party APIs and platform f
 
 -- Model specifications including model name, tokeniser, and sequence classifier (for classification tasks), as in `model-spec`.
 
---  Set the parameters for the main task function, e.g., sentiment analysis as in `sentiment-analysis`(e.g., padding, truncation, prediction labels, etc). Specify the number of examples to provide to the LLM from the external data source; the dataset format should follow the LLM's training template.
+--  Set the parameters for the main task function, e.g., sentiment analysis as in `function`(e.g., padding, truncation, prediction labels, etc). Specify the number of examples to provide to the LLM from the external data source; the dataset format should follow the LLM's training template.
 
 ## The process for fine-tuning LLMs locally 
 
