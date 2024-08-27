@@ -19,6 +19,6 @@ The process for fine-tuning LLMs Locally without third-party APIs and platform f
 
  -- Initialise the model with the 'function` as before with tokenised training and evaluation sets.
 
- -- Training or fine-tuning the model using the `Trainer` module from the `Transformers` library as in `training`.  
+ -- Training or fine-tuning the model using the `Trainer` module from the `Transformers` library as in `training`.  Check the extended set of arguments.
 
  
