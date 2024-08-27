@@ -1,5 +1,5 @@
 # check this link for all training arguments: https://huggingface.co/docs/transformers/en/main_classes/trainer#transformers.TrainingArguments.adam_beta2
-# check video tutorial for the implementation: 
+# check the video tutorial for the implementation: 
 
 from transformers import Trainer, TrainingArguments
 
