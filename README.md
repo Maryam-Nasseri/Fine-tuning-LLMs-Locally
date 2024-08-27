@@ -17,4 +17,8 @@ The process for fine-tuning LLMs Locally without third-party APIs and platform f
 
  -- Tokenisation: tokenise the training and evaluation sets of the data (specify the number of examples). Similar to `model spec` but use the dataset for tokenisation as in `specify_data`.
 
+ -- Initialise the model with the 'function` as before with tokenised training and evaluation sets.
+
+ -- Training or fine-tuning the model using the `Trainer` module from the `Transformers` library as in `training`.  
+
  
