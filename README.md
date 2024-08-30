@@ -23,4 +23,6 @@ The process for fine-tuning LLMs Locally without third-party APIs and platform f
 
  ## Tutorial video: step-by-step guide to fine-tuning a large language model
 
+This video tutorial is easiest way to fine-tune a large language model 100% free and locally without using any API or third-party platform.
+
 [![Easiest tutorial to fine-tune LLMs locally in just 20 minutes!](https://img.youtube.com/vi/oG0jsMVTg9w/maxresdefault.jpg)](https://youtu.be/oG0jsMVTg9w) 
