@@ -25,4 +25,6 @@ The process for fine-tuning LLMs Locally without third-party APIs and platform f
 
 This video tutorial is easiest way to fine-tune a large language model 100% free and locally without using any API or third-party platform.
 
+Terms and concepts discussed: Bidirectional Encoder Representations from Transformers, tokenisation, embedding, encoding, task head, encoder-only Transformer models, sequence classification
+
 [![Easiest tutorial to fine-tune LLMs locally in just 20 minutes!](https://img.youtube.com/vi/oG0jsMVTg9w/maxresdefault.jpg)](https://youtu.be/oG0jsMVTg9w) 
