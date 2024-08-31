@@ -7,6 +7,6 @@
 %pip install --upgrade scikit-learn==1.3.2
 %pip install --upgrade tensorflow==2.16.2
 %pip install --upgrade torch==2.2.1
-%pip install --upgrade huggingface_hub==0.23.4
+%pip install --upgrade huggingface_hub==0.23.4   #if you need to push your trained model to Hugging Face
 %pip install -U 'accelerate==0.27.2'
 %pip install --upgrade tf-keras==2.16.0
