@@ -15,11 +15,11 @@ The process for fine-tuning LLMs Locally without third-party APIs and platform f
 
 -- Load the dataset you want to fine-tune your model on; you can use Pandas `DataFrame` to sort/select a portion of the training dataset, as in `load_data`.
 
- -- Tokenisation: tokenise the training and evaluation sets of the data (specify the number of examples). Similar to `model spec` but use the dataset for tokenisation as in `specify_data`.
+ -- Tokenisation: tokenise the training and evaluation sets of the data (specify the number of examples). Similar to `model spec` except we use the dataset for tokenisation as in `specify_data`.
 
  -- Initialise the model with the 'function` as before with tokenised training and evaluation sets.
 
- -- Training or fine-tuning the model using the `Trainer` module from the `Transformers` library as in `training`.  Check the extended set of arguments.
+ -- Training or fine-tuning the model using the `Trainer` module from the `Transformers` library as in `training`.  Check the extended set of arguments at [the Trainer class of TRansformers](https://huggingface.co/docs/transformers/en/main_classes/trainer)
 
  ## Tutorial video: step-by-step guide to fine-tuning a large language model
 
