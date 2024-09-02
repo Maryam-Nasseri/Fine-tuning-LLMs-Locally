@@ -13,7 +13,7 @@ The process for fine-tuning LLMs Locally without third-party APIs and platform f
 
 ## The process for fine-tuning LLMs locally 
 
--- Load the dataset you want to fine-tune your model on; you can use Pandas `DataFrame` to sort/select a portion of the training dataset, as in `load_data`.
+-- Load the dataset you want to fine-tune your model on (its format should match the LLM's training template); you can use Pandas `DataFrame` to sort/select a portion of the training dataset, as in `load_data`.
 
  -- Tokenisation: tokenise the training and evaluation sets of the data (specify the number of examples). Similar to `model spec` except we use the dataset for tokenisation as in `specify_data`.
 
@@ -23,7 +23,7 @@ The process for fine-tuning LLMs Locally without third-party APIs and platform f
 
  ## Tutorial video: step-by-step guide to fine-tuning a large language model
 
-This video tutorial is easiest way to fine-tune a large language model 100% free and locally without using any API or third-party platform.
+This video tutorial is the easiest way to fine-tune a large language model 100% free and locally without using any API or third-party platform.
 
 Terms and concepts discussed: Bidirectional Encoder Representations from Transformers, tokenisation, embedding, encoding, task head, encoder-only Transformer models, sequence classification
 
